@@ -1,1 +1,3 @@
 # next-tex-bd
+
+DIDN'T COMPLETE BUT HAD FUN (NON RESPONSIVE)
